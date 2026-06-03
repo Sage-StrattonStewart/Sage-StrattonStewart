@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Sage Stratton-Stewart
 I am a Software Development college student from Canada.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sage-strattonstewart)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sage-strattonstewart)
 
 
 ## 🌐 How To Contact Me:
