@@ -1,4 +1,4 @@
-##👋 Hi, I'm Sage Stratton-Stewart
+## 👋 Hi, I'm Sage Stratton-Stewart
 
 ## 🌐 How To Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sage-stratton-stewart) 
