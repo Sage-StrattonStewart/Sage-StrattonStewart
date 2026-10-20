@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Sage Stratton-Stewart
-I am a Software Development college student from Canada.
+I am a Software Developer from Canada.
 
 
 ## 🌐 How To Contact Me:
